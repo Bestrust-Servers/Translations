@@ -1,3 +1,7 @@
 {
-  "Message": "שלום <color=#cc3c54>{0}</color>,\nאתה לא נמצא בשרת ה-Discord שלנו!\nהצטרף עכשיו וקבל <color=#cc3c54>פרסים חינמיים:</color>\nBestrust יומי: 300 גושים + 50 HQM + 100 דלק נחות\nBestrust לבנייה: דלת עץ כפולה, דלת עץ, 2 קוד-לוקים, TC, קופסת עץ קטנה, שק שינה, 5000 עצים\nBestrust למתחילים: סט בגדים מבד + פיק אבן + גרזן אבן\n<color=#cc3c54>הקלד /discord בצ'אט כאן או השתמש בקישור: discord.gg/bestrustservers</color>"
+  "Header": "שלום <color=#cc3c54>{0}</color>,\nעדיין לא סיימת את תהליך הקישור!\nאם אתה רוצה לקבל את <color=#7dda58>הפרסים החינמיים הגדולים ביותר</color>, עליך להשלים את השלבים שנותרו:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: בגדי יוטה + מכוש אבן + גרזן אבן",
+  "Kit_NameTag": "- <color=#ff7763>ערכת שם סטים</color>: 300 גרוטאות + 50 HQM + 100 דלק באיכות נמוכה",
+  "Kit_DiscordTag": "- <color=#ff7763>ערכת תג דיסקורד</color>: דלת עץ כפולה, דלת עץ רגילה, 2 מנעולי קוד, TC, ארגז עץ קטן, שק שינה, 5000 עץ",
+  "Footer": "\nכנס ל- <color=#ff5c45>https://link.bestrustservers.com</color> והשלם את השלבים."
 }

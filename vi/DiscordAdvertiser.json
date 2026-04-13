@@ -1,3 +1,7 @@
 {
-  "Message": "Xin chào <color=#cc3c54>{0}</color>,\nBạn chưa có trong server discord của chúng tôi!\nTham gia ngay để nhận <color=#cc3c54>phần thưởng miễn phí:</color>\nBestrust hàng ngày: 300 phế liệu + 50HQM + 100 Nhiên liệu\nBestrust xây dựng: Cửa gỗ đôi, cửa gỗ đơn, 2 khóa mã, TC, hộp gỗ nhỏ, túi ngủ, 5000 gỗ\nBestrust khởi đầu: Quần áo Burlap + cúp đá + rìu đá\n<color=#cc3c54>Sử dụng /discord trong chat ở đây hoặc dùng liên kết này: discord.gg/bestrustservers</color>"
+  "Header": "Xin chào <color=#cc3c54>{0}</color>,\nBạn chưa hoàn tất quá trình liên kết!\nNếu bạn muốn nhận được những <color=#7dda58>phần thưởng miễn phí</color> lớn nhất, bạn nên hoàn thành các bước còn lại:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: Quần áo vải bố + cuốc đá + rìu đá",
+  "Kit_NameTag": "- <color=#ff7763>Gói Tên Steam</color>: 300 phế liệu (scrap) + 50 HQM + 100 nhiên liệu chất lượng thấp",
+  "Kit_DiscordTag": "- <color=#ff7763>Gói Thẻ Discord</color>: Cửa gỗ đôi, cửa gỗ đơn, 2 khóa mã, TC, hộp gỗ nhỏ, túi ngủ, 5000 gỗ",
+  "Footer": "\nHãy truy cập <color=#ff5c45>https://link.bestrustservers.com</color> và hoàn thành các bước."
 }

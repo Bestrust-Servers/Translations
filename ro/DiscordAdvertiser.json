@@ -1,3 +1,7 @@
 {
-  "Message": "Salut <color=#cc3c54>{0}</color>,\nNu ești în serverul nostru de discord!\nAlătură-te acum pentru a primi <color=#cc3c54>recompense gratuite:</color>\nBestrust zilnic: 300 de scrap + 50HQM + 100 combustibil de tip Lowgrade\nBestrust construcție: Ușă dublă de lemn, ușă simplă de lemn, 2 lacăte cu cod, TC, cutie mică de lemn, sac de dormit, 5000 lemn\nBestrust starter: Haine de pânză + târnăcop de piatră + topor de piatră\n<color=#cc3c54>Folosește /discord în chat aici sau folosește acest link: discord.gg/bestrustservers</color>"
+  "Header": "Salut <color=#cc3c54>{0}</color>,\nNu ai finalizat complet procesul de asociere!\nDacă vrei să obții cele mai mari <color=#7dda58>recompense gratuite</color>, trebuie să finalizezi pașii rămași:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: Haine de pânză + târnăcop de piatră + topor de piatră",
+  "Kit_NameTag": "- <color=#ff7763>Kit Nume Steam</color>: 300 de scrap + 50 HQM + 100 combustibil lowgrade",
+  "Kit_DiscordTag": "- <color=#ff7763>Kit Etichetă Discord</color>: Ușă dublă de lemn, ușă simplă de lemn, 2 lacăte cu cod, TC, cutie mică de lemn, sac de dormit, 5000 lemn",
+  "Footer": "\nMergi la <color=#ff5c45>https://link.bestrustservers.com</color> și finalizează pașii."
 }

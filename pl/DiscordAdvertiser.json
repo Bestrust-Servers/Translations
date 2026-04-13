@@ -1,3 +1,7 @@
 {
-  "Message": "Cześć <color=#cc3c54>{0}</color>,\nNie jesteś na naszym serwerze Discord!\nDołącz teraz, aby zdobyć <color=#cc3c54>darmowe nagrody:</color>\nBestrust codziennie: 300 złomu + 50 HQM + 100 niskiej jakości paliwa\nBestrust budowlane: Podwójne drewniane drzwi, pojedyncze drewniane drzwi, 2 zamki szyfrowe, TC, mała drewniana skrzynka, śpiwór, 5000 drewna\nBestrust startowe: Ubrania z juty + kamienny kilof + kamienna siekiera\n<color=#cc3c54>Użyj /discord w czacie tutaj lub użyj tego linku: discord.gg/bestrustservers</color>"
+  "Header": "Cześć <color=#cc3c54>{0}</color>,\nNie ukończyłeś w pełni procesu łączenia!\nJeśli chcesz otrzymać największe <color=#7dda58>darmowe nagrody</color>, musisz wykonać pozostałe kroki:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: Ubrania z juty + kamienny kilof + kamienna siekiera",
+  "Kit_NameTag": "- <color=#ff7763>Zestaw Nazwy Steam</color>: 300 złomu + 50 HQM + 100 paliwa niskiej jakości",
+  "Kit_DiscordTag": "- <color=#ff7763>Zestaw Taga Discord</color>: Podwójne drewniane drzwi, pojedyncze drewniane drzwi, 2 zamki kodowe, TC, mała drewniana skrzynka, śpiwór, 5000 drewna",
+  "Footer": "\nWejdź na <color=#ff5c45>https://link.bestrustservers.com</color> i wykonaj pozostałe kroki."
 }

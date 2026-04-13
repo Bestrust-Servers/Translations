@@ -1,3 +1,7 @@
 {
-  "Message": "Ciao <color=#cc3c54>{0}</color>,\nNon sei nel nostro server discord!\nUnisciti ora per ottenere <color=#cc3c54>ricompense gratuite:</color>\nBestrust daily: 300 scrap + 50HQM + 100 Lowgrade fuel\nBestrust build: Porta doppia in legno, porta singola in legno, 2 codelock, TC, piccola scatola in legno, sacco a pelo, 5000 legno\nBestrust starter: Vestiti di tela grezza + piccone di pietra + ascia di pietra\n<color=#cc3c54>Usa /discord in chat qui o usa questo link: discord.gg/bestrustservers</color>"
+  "Header": "Ciao <color=#cc3c54>{0}</color>,\nNon hai completato interamente il processo di collegamento!\nSe vuoi ottenere le <color=#7dda58>ricompense gratuite</color> migliori, devi completare i passaggi rimanenti:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: Vestiti di tela + piccone di pietra + ascia di pietra",
+  "Kit_NameTag": "- <color=#ff7763>Kit Nome Steam</color>: 300 rottami + 50 HQM + 100 carburante di bassa qualità",
+  "Kit_DiscordTag": "- <color=#ff7763>Kit Tag Discord</color>: Doppia porta di legno, porta di legno singola, 2 serrature a codice, Armadio (TC), piccola cassa di legno, sacco a pelo, 5000 legno",
+  "Footer": "\nVai su <color=#ff5c45>https://link.bestrustservers.com</color> e completa i passaggi."
 }

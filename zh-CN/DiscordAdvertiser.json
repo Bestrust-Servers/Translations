@@ -1,3 +1,7 @@
 {
-  "Message": "你好 <color=#cc3c54>{0}</color>,\n你还没加入我们的discord服务器！\n快来加入，获取<color=#cc3c54>免费奖励：</color>\nBestrust daily: 300废料 + 50HQM + 100低级燃料\nBestrust build: 双木门、单木门、2个密码锁、防爆椅子、小木箱、睡袋、5000木材\nBestrust starter: 麻布衣服 + 石镐 + 石斧\n<color=#cc3c54>在聊天中使用/discord或使用此链接：discord.gg/bestrustservers</color>"
+  "Header": "你好 <color=#cc3c54>{0}</color>，\n你还没有完全完成绑定流程！\n如果你想获得最大的<color=#7dda58>免费奖励</color>，你应该完成剩下的步骤：\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: 粗布衣服 + 石镐 + 石斧",
+  "Kit_NameTag": "- <color=#ff7763>Steam 名字礼包</color>: 300 废料 + 50 高金 (HQM) + 100 低级燃料",
+  "Kit_DiscordTag": "- <color=#ff7763>Discord 标签礼包</color>: 双开木门，单开木门，2 密码锁，领地柜 (TC)，小木箱，睡袋，5000 木头",
+  "Footer": "\n请前往 <color=#ff5c45>https://link.bestrustservers.com</color> 并完成这些步骤。"
 }

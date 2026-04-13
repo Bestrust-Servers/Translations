@@ -1,3 +1,7 @@
 {
-  "Message": "Hola <color=#cc3c54>{0}</color>,\nNo estàs al nostre servidor de discord!\nUneix-te ara per obtenir <color=#cc3c54>recompenses gratuïtes:</color>\nBestrust diari: 300 de ferralla + 50HQM + 100 de combustible de baixa qualitat\nBestrust construcció: Porta doble de fusta, porta de fusta simple, 2 cadenats, TC, caixa petita de fusta, sac de dormir, 5000 de fusta\nBestrust inicial: Roba de sac + pic de pedra + destral de pedra\n<color=#cc3c54>Utilitza /discord al xat aquí o utilitza aquest enllaç: discord.gg/bestrustservers</color>"
+  "Header": "Hola <color=#cc3c54>{0}</color>,\nNo has completat tot el procés de vinculació!\nSi vols obtenir les <color=#7dda58>recompenses gratuïtes</color> més grans, has de completar els passos restants:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: Roba d'arpillera + pic de pedra + destral de pedra",
+  "Kit_NameTag": "- <color=#ff7763>Kit de Nom de Steam</color>: 300 de ferralla + 50 HQM + 100 combustible de baix grau",
+  "Kit_DiscordTag": "- <color=#ff7763>Kit d'Etiqueta de Discord</color>: Porta de fusta doble, porta de fusta senzilla, 2 panys de codi, TC, caixa de fusta petita, sac de dormir, 5000 fusta",
+  "Footer": "\nVes a <color=#ff5c45>https://link.bestrustservers.com</color> i completa els passos."
 }

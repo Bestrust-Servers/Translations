@@ -1,3 +1,7 @@
 {
-  "Message": "こんにちは <color=#cc3c54>{0}</color>、\nあなたはまだ私たちのDiscordサーバーに参加していません！\n今すぐ参加して<color=#cc3c54>無料の報酬をゲット:</color>\nBestrust デイリー: 300スクラップ + 50HQM + 100低級燃料\nBestrust ビルド: ダブル木製ドア、シングル木製ドア、2つのコドロック、TC、小型木製ボックス、スリーピングバッグ、5000木材\nBestrust スターター: バーラップ服 + 石のつるはし + 石の斧\n<color=#cc3c54>ここで /discord をチャットで使うか、このリンクを使ってください: discord.gg/bestrustservers</color>"
+  "Header": "こんにちは <color=#cc3c54>{0}</color>,\n連携プロセスがまだ完了していません！\n最大の<color=#7dda58>無料報酬</color>を獲得したい場合は、残りの手順を完了してください：\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: バーラップの服 + 石のピッケル + 石の斧",
+  "Kit_NameTag": "- <color=#ff7763>Steam 名前キット</color>: スクラップ 300 + 50 HQM + 低質燃料 100",
+  "Kit_DiscordTag": "- <color=#ff7763>Discord タグキット</color>: 両開きの木のドア、片開きの木のドア、コードロック 2個、TC、小さな木の箱、寝袋、木材 5000",
+  "Footer": "\n<color=#ff5c45>https://link.bestrustservers.com</color> にアクセスして手順を完了してください。"
 }

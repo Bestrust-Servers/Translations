@@ -1,1 +1,7 @@
-{"Message": "Ahoj <color=#cc3c54>{0}</color>,\nNejsi na našem discord serveru!\nPřipoj se nyní a získej <color=#cc3c54>odměny zdarma:</color>\nBestrust denně: 300 scrap + 50HQM + 100 Nízkohodnotné palivo\nBestrust build: Dvojité dřevěné dveře, jednoduché dřevěné dveře, 2 kódový zámek, TC, malá dřevěná bedna, spacák, 5000 dřeva\nBestrust startér: Látkové oblečení + kamenný krumpáč + kamenná sekera\n<color=#cc3c54>Použij /discord v chatu tady nebo použij tento odkaz: discord.gg/bestrustservers</color>"}
+{
+  "Header": "Ahoj <color=#cc3c54>{0}</color>,\nJeště jsi nedokončil proces propojení!\nPokud chceš získat ty největší <color=#7dda58>odměny zdarma</color>, měl bys dokončit zbývající kroky:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: Pytlovinové oblečení + kamenný krumpáč + kamenná sekera",
+  "Kit_NameTag": "- <color=#ff7763>Kit Jména na Steamu</color>: 300 šrotu + 50 HQM + 100 nekvalitního paliva",
+  "Kit_DiscordTag": "- <color=#ff7763>Kit Discord Tag</color>: Dvojité dřevěné dveře, jednoduché dřevěné dveře, 2 kódové zámky, TC, malá dřevěná truhla, spacák, 5000 dřeva",
+  "Footer": "\nJdi na <color=#ff5c45>https://link.bestrustservers.com</color> a dokonči kroky."
+}

@@ -1,3 +1,7 @@
 {
-  "Message": "Hei <color=#cc3c54>{0}</color>,\nDu er ikke med i vår Discord-server!\nBli med nå for å få <color=#cc3c54>gratis belønninger:</color>\nBestrust daglig: 300 skrap + 50HQM + 100 lavkvalitetsdrivstoff\nBestrust bygg: Dobbel tredør, enkel tredør, 2 kodelås, TC, liten trekasse, sovepose, 5000 tre\nBestrust startpakke: Jutesett + steinhakke + steinøks\n<color=#cc3c54>Bruk /discord i chat her eller bruk denne lenken: discord.gg/bestrustservers</color>"
+  "Header": "Hei <color=#cc3c54>{0}</color>,\nDu har ikke fullført tilkoblingsprosessen!\nHvis du vil ha de største <color=#7dda58>gratis belønningene</color>, bør du fullføre de gjenværende trinnene:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: Strie klær + steinhakke + steinøks",
+  "Kit_NameTag": "- <color=#ff7763>Steam Navn Kit</color>: 300 skrap + 50 HQM + 100 lavgrads drivstoff",
+  "Kit_DiscordTag": "- <color=#ff7763>Discord Tag Kit</color>: Dobbel tredør, enkel tredør, 2 kodelåser, TC, liten trekasse, sovepose, 5000 tre",
+  "Footer": "\nGå til <color=#ff5c45>https://link.bestrustservers.com</color> og fullfør trinnene."
 }

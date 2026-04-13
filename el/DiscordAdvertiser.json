@@ -1,3 +1,7 @@
 {
-  "Message": "Γεια σου <color=#cc3c54>{0}</color>,\nΔεν είσαι στον discord server μας!\nΓίνε μέλος τώρα για να πάρεις <color=#cc3c54>δωρεάν rewards:</color>\nBestrust daily: 300 scrap + 50HQM + 100 Lowgrade fuel\nBestrust build: Διπλή ξύλινη πόρτα, μονή ξύλινη πόρτα, 2 codelock, TC, μικρό ξύλινο κουτί, υπνόσακος, 5000 ξύλο\nBestrust starter: Burlap ρούχα + πέτρινο κασμά + πέτρινο τσεκούρι\n<color=#cc3c54>Χρησιμοποίησε /discord στη συνομιλία εδώ ή χρησιμοποίησε αυτό το link: discord.gg/bestrustservers</color>"
+  "Header": "Γεια σου <color=#cc3c54>{0}</color>,\nΔεν έχεις ολοκληρώσει πλήρως τη διαδικασία σύνδεσης!\nΑν θέλεις να πάρεις τις μεγαλύτερες <color=#7dda58>δωρεάν ανταμοιβές</color>, θα πρέπει να ολοκληρώσεις τα υπόλοιπα βήματα:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: Ρούχα από λινάτσα + πέτρινη αξίνα + πέτρινο τσεκούρι",
+  "Kit_NameTag": "- <color=#ff7763>Πακέτο Ονόματος Steam</color>: 300 scrap + 50 HQM + 100 καύσιμο χαμηλής ποιότητας",
+  "Kit_DiscordTag": "- <color=#ff7763>Πακέτο Discord Tag</color>: Διπλή ξύλινη πόρτα, μονή ξύλινη πόρτα, 2 κλειδαριές κωδικού, TC, μικρό ξύλινο κουτί, υπνόσακος, 5000 ξύλο",
+  "Footer": "\nΠήγαινε στο <color=#ff5c45>https://link.bestrustservers.com</color> και ολοκλήρωσε τα βήματα."
 }

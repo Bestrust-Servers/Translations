@@ -1,3 +1,7 @@
 {
-  "Message": "Szia <color=#cc3c54>{0}</color>,\nNem vagy a Discord szerverünkön!\nCsatlakozz most, és kapj <color=#cc3c54>ingyenes jutalmakat:</color>\nBestrust napi: 300 fémhulladék + 50HQM + 100 gyenge fűtőanyag\nBestrust építő: Kétszárnyú faajtó, egyszárnyú faajtó, 2 kódzár, TC, kis fa láda, hálózsák, 5000 fa\nBestrust kezdő: Vászon ruha + kőcsákány + kőbalta\n<color=#cc3c54>Használja a /discord chat parancsot itt, vagy használja ezt a linket: discord.gg/bestrustservers</color>"
+  "Header": "Szia <color=#cc3c54>{0}</color>,\nMég nem fejezted be teljesen az összekapcsolási folyamatot!\nHa szeretnéd megkapni a legnagyobb <color=#7dda58>ingyenes jutalmakat</color>, végezd el a hátralévő lépéseket:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: Vászon ruha + kőcsákány + kőbalta",
+  "Kit_NameTag": "- <color=#ff7763>Steam Név Kit</color>: 300 fémhulladék (scrap) + 50 HQM + 100 gyenge fűtőanyag",
+  "Kit_DiscordTag": "- <color=#ff7763>Discord Tag Kit</color>: Kétszárnyú faajtó, egyszárnyú faajtó, 2 kódzár, TC, kis fa láda, hálózsák, 5000 fa",
+  "Footer": "\nLátogass el a <color=#ff5c45>https://link.bestrustservers.com</color> weboldalra a lépések befejezéséhez."
 }

@@ -1,3 +1,7 @@
 {
-  "Message": "Hallo <color=#cc3c54>{0}</color>,\nJy is nie op ons Discord-bediener nie!\nSluit nou aan om <color=#cc3c54>gratis belonings:</color>\nBestrust daagliks: 300 scrap + 50HQM + 100 Laegraad brandstof\nBestrust bou: Dubbel houtdeur, enkel houtdeur, 2 slot, TC, klein houtkissie, slaapsak, 5000 hout\nBestrust begin: Jute klere + klip pik + klip byl\n<color=#cc3c54>Gebruik /discord in die klets hier of gebruik hierdie skakel: discord.gg/bestrustservers</color>"
+  "Header": "Hallo <color=#cc3c54>{0}</color>,\nJy het nog nie die koppeling ten volle voltooi nie!\nAs jy die grootste <color=#7dda58>gratis belonings</color> wil kry, moet jy die oorblywende stappe voltooi:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: Burlap klere + klip pik + klip byl",
+  "Kit_NameTag": "- <color=#ff7763>Steam Naam Kit</color>: 300 scrap + 50 HQM + 100 lowgrade fuel",
+  "Kit_DiscordTag": "- <color=#ff7763>Discord Tag Kit</color>: Dubbel hout deur, enkel hout deur, 2 kode slotte, TC, klein hout boks, slaapsak, 5000 hout",
+  "Footer": "\nGaan na <color=#ff5c45>https://link.bestrustservers.com</color> en voltooi die stappe."
 }

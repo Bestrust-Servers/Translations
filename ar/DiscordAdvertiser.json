@@ -1,3 +1,7 @@
 {
-  "Message": "مرحباً <color=#cc3c54>{0}</color>,\nأنت لست في سيرفر ديسكورد الخاص بنا!\nانضم الآن للحصول على <color=#cc3c54>مكافآت مجانية:</color>\nBestrust اليومي: 300 سكراب+ 50HQM + 100 وقود منخفض الجودة\nBestrust البناء: باب خشبي مزدوج، باب خشبي فردي، 2 قفل رقمي، TC، صندوق خشبي صغير، حقيبة نوم، 5000 خشب\nBestrust المبتدئ: ملابس خيش + فأس حجري + معول حجري\n<color=#cc3c54>استخدم /discord في الدردشة هنا أو استخدم هذا الرابط: discord.gg/bestrustservers</color>"
+  "Header": "مرحباً <color=#cc3c54>{0}</color>,\nلم تكمل عملية الربط بالكامل!\nإذا كنت ترغب في الحصول على أكبر <color=#7dda58>مكافآت مجانية</color>، يجب عليك إكمال الخطوات المتبقية:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: ملابس بيرلاب + معول حجري + فأس حجري",
+  "Kit_NameTag": "- <color=#ff7763>Steam Name Kit</color>: 300 خردة + 50 HQM + 100 وقود منخفض الجودة",
+  "Kit_DiscordTag": "- <color=#ff7763>Discord Tag Kit</color>: باب خشبي مزدوج، باب خشبي مفرد، 2 قفل بالرمز، TC، صندوق خشبي صغير، كيس نوم، 5000 خشب",
+  "Footer": "\nاذهب إلى <color=#ff5c45>https://link.bestrustservers.com</color> وأكمل الخطوات."
 }

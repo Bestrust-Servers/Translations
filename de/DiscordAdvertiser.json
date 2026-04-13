@@ -1,3 +1,7 @@
 {
-  "Message": "Hallo <color=#cc3c54>{0}</color>,\nDu bist noch nicht auf unserem Discord-Server!\nTritt jetzt bei und erhalte <color=#cc3c54>kostenlose Belohnungen:</color>\nBestrust täglich: 300 Schrott + 50HQM + 100 Minderwertiger Treibstoff\nBestrust Bau: Doppelte Holztür, einfache Holztür, 2 Zahlenschlösser, TC, kleine Holzbox, Schlafsack, 5000 Holz\nBestrust Starter: Jute-Kleidung + Steinpickel + Steinaxt\n<color=#cc3c54>Verwende /discord im Chat hier oder benutze diesen Link: discord.gg/bestrustservers</color>"
+  "Header": "Hallo <color=#cc3c54>{0}</color>,\nDu hast den Verknüpfungsprozess noch nicht vollständig abgeschlossen!\nWenn du die größten <color=#7dda58>kostenlosen Belohnungen</color> erhalten möchtest, solltest du die verbleibenden Schritte abschließen:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: Sackleinen-Kleidung + Steinspitzhacke + Steinaxt",
+  "Kit_NameTag": "- <color=#ff7763>Steam Namens-Kit</color>: 300 Schrott + 50 HQM + 100 minderwertiger Treibstoff",
+  "Kit_DiscordTag": "- <color=#ff7763>Discord Tag-Kit</color>: Doppelte Holztür, einfache Holztür, 2 Codeschlösser, Bauschrank (TC), kleine Holzkiste, Schlafsack, 5000 Holz",
+  "Footer": "\nGehe auf <color=#ff5c45>https://link.bestrustservers.com</color> und schließe die Schritte ab."
 }

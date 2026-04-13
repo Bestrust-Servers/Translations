@@ -1,3 +1,7 @@
 {
-  "Message": "안녕하세요 <color=#cc3c54>{0}</color>,\n디스코드 서버에 가입되어 있지 않으시네요!\n지금 바로 가입하고 <color=#cc3c54>무료 보상:</color>을 받으세요.\nBestrust daily: 300 스크랩 + 50HQM + 100 저급 연료\nBestrust build: 양문 나무 문, 단문 나무 문, 2개 코드락, TC, 작은 나무 상자, 침낭, 5000 나무\nBestrust starter: 천 옷 + 돌 곡괭이 + 돌 도끼\n<color=#cc3c54>여기 채팅에서 /discord를 사용하거나 이 링크를 이용하세요: discord.gg/bestrustservers</color>"
+  "Header": "안녕하세요 <color=#cc3c54>{0}</color>님,\n연동 단계를 아직 완전히 마치지 않았습니다!\n가장 큰 <color=#7dda58>무료 보상</color>을 얻고 싶다면 다음의 남은 단계를 완료하세요:\n",
+  "Kit_Verified": "- <color=#ff7763>Bestrust starter</color>: 삼베 옷 + 돌 곡괭이 + 돌 도끼",
+  "Kit_NameTag": "- <color=#ff7763>Steam 이름 키트</color>: 스크랩 300 + 50 HQM + 저급 연료 100",
+  "Kit_DiscordTag": "- <color=#ff7763>Discord 태그 키트</color>: 쌍여닫이 나무 문, 외여닫이 나무 문, 코드 잠금장치 2개, TC, 작은 나무 상자, 침낭, 나무 5000개",
+  "Footer": "\n<color=#ff5c45>https://link.bestrustservers.com</color> 에 접속하여 단계를 완료하세요."
 }
