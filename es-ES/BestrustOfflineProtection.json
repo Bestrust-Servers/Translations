@@ -1,4 +1,4 @@
 {
-  "Enabled": "La protección contra raideos offline está activa actualmente.\nSolo puedes raidear entre las 14:00 y las 21:59 CEST.",
-  "Disabled": "La protección contra raideos offline ya no está activa.\nPuedes raidear hasta las 21:59 CEST."
+  "Enabled": "La protección de raid offline está actualmente activa.\nSolo puedes raidear entre las {0} y las {1} ({2}).",
+  "Disabled": "La protección de raid offline ya no está activa.\nPuedes raidear hasta las {1} ({2})."
 }

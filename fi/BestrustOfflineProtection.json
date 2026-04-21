@@ -1,4 +1,4 @@
 {
-  "Enabled": "Offline Raid Suoja on tällä hetkellä käytössä.\nVoit ryöstää vain kello 14:00 ja 21:59 CEST välillä.",
-  "Disabled": "Offline Raid Suoja ei ole enää käytössä.\nVoit ryöstää kello 21:59 CEST asti."
+  "Enabled": "Offline Raid -suojaus on tällä hetkellä aktiivinen.\nVoit raidata vain {0} ja {1} ({2}) välisenä aikana.",
+  "Disabled": "Offline Raid -suojaus ei ole enää aktiivinen.\nVoit raidata aikaan {1} ({2}) asti."
 }

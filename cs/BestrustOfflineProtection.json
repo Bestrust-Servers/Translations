@@ -1,4 +1,4 @@
 {
-  "Enabled": "Ochrana proti offline raidům je momentálně aktivní.\nMůžete raidit pouze mezi 14:00 a 21:59 CEST.",
-  "Disabled": "Ochrana proti offline raidům již není aktivní.\nMůžete raidit do 21:59 CEST."
+  "Enabled": "Ochrana proti offline raidu je momentálně aktivní.\nZákladny můžete raidovat pouze mezi {0} a {1} ({2}).",
+  "Disabled": "Ochrana proti offline raidu již není aktivní.\nMůžete raidovat do {1} ({2})."
 }

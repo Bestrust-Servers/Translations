@@ -1,4 +1,4 @@
 {
-  "Enabled": "Offline Raid Protection är för närvarande aktiv.\nDu kan bara raida mellan 14:00 och 21:59 CEST.",
-  "Disabled": "Offline Raid Protection är inte längre aktiv.\nDu kan raida tills 21:59 CEST."
+  "Enabled": "Offline Raid-skydd är för närvarande aktivt.\nDu kan bara raida mellan {0} och {1} ({2}).",
+  "Disabled": "Offline Raid-skydd är inte längre aktivt.\nDu kan raida fram till {1} ({2})."
 }

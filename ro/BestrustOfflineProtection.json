@@ -1,4 +1,4 @@
 {
-  "Enabled": "Protecția împotriva raidurilor offline este activă în prezent.\nPoți da raid doar între 14:00 și 21:59 CEST.",
-  "Disabled": "Protecția împotriva raidurilor offline nu mai este activă.\nPoți da raid până la 21:59 CEST."
+  "Enabled": "Protecția împotriva raidurilor offline este activă în prezent.\nPuteți ataca doar între {0} și {1} ({2}).",
+  "Disabled": "Protecția împotriva raidurilor offline nu mai este activă.\nPuteți ataca până la {1} ({2})."
 }

@@ -1,4 +1,4 @@
 {
-  "Enabled": "La protection de raid hors ligne est activée.\nLes raids ne sont autorisés qu'entre 14h00 et 21h59 CEST.",
-  "Disabled": "La protection de raid hors ligne est désactivée.\nVous pouvez raider jusqu'à 21h59 CEST."
+  "Enabled": "La protection anti-raid hors ligne est actuellement active.\nVous ne pouvez faire un raid qu'entre {0} et {1} ({2}).",
+  "Disabled": "La protection anti-raid hors ligne n'est plus active.\nVous pouvez faire un raid jusqu'à {1} ({2})."
 }

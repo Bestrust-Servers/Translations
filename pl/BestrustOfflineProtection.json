@@ -1,4 +1,4 @@
 {
-  "Enabled": "Ochrona przed najazdami offline jest obecnie aktywna.\nMożesz nazadować tylko między 14:00 a 21:59 CEST.",
-  "Disabled": "Ochrona przed najazdami offline nie jest już aktywna.\nMożesz nazadować do 21:59 CEST."
+  "Enabled": "Ochrona przed rajdem offline jest obecnie aktywna.\nMożesz rajdować tylko między {0} a {1} ({2}).",
+  "Disabled": "Ochrona przed rajdem offline nie jest już aktywna.\nMożesz rajdować do {1} ({2})."
 }

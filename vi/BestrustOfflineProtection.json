@@ -1,4 +1,4 @@
 {
-  "Enabled": "Bảo vệ chống đột kích ngoại tuyến hiện đang kích hoạt.\nBạn chỉ có thể đột kích từ 14:00 đến 21:59 CEST.",
-  "Disabled": "Bảo vệ chống đột kích ngoại tuyến không còn hoạt động.\nBạn có thể đột kích đến 21:59 CEST."
+  "Enabled": "Bảo vệ Raid Ngoại tuyến hiện đang hoạt động.\nBạn chỉ có thể raid trong khoảng từ {0} đến {1} ({2}).",
+  "Disabled": "Bảo vệ Raid Ngoại tuyến không còn hoạt động nữa.\nBạn có thể raid cho đến {1} ({2})."
 }

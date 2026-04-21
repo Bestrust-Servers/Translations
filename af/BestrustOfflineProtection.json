@@ -1,4 +1,4 @@
 {
-  "Enabled": "Offline Raid-beskerming is tans aktief.\nJy kan slegs tussen 14:00 en 21:59 CEST aanval.",
-  "Disabled": "Offline Raid-beskerming is nie meer aktief nie.\nJy kan aanval tot 21:59 CEST."
+  "Enabled": "Vanlyn Klopjag Beskerming is tans aktief.\nJy kan slegs klopjagte uitvoer tussen {0} en {1} ({2}).",
+  "Disabled": "Vanlyn Klopjag Beskerming is nie meer aktief nie.\nJy kan klopjagte uitvoer tot {1} ({2})."
 }
