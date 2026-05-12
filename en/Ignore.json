@@ -1,0 +1,13 @@
+{
+  "List": "Ignored {0}:\n{1}",
+  "NoIngored": "Your ignore list is empty.",
+  "NotOnIgnorelist": "{0} not found on your ignore list.",
+  "IgnoreRemoved": "{0} was removed from your ignore list.",
+  "PlayerNotFound": "Player '{0}' not found.",
+  "CantAddSelf": "You cant add yourself.",
+  "AlreadyOnList": "{0} is already ignored.",
+  "IgnoreAdded": "{0} is now ignored.",
+  "IgnorelistFull": "Your ignore list is full.",
+  "HelpText": "Use /ignore <add|+|remove|-|list> <name/steamID> to add/remove/list ignores",
+  "Syntax": "Syntax: /ignore <add/+/remove/-> <name/steamID> or /ignore list"
+}

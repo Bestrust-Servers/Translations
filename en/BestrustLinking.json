@@ -1,0 +1,8 @@
+{
+  "Cooldown": "You are currently on cooldown! Please wait {0} seconds before using this command again.",
+  "CheckingStatus": "Checking your authentication status...",
+  "CheckFailed": "There was a connection error. Please try again, or contact an admin if this issue persists.",
+  "StatusSuccess": "You are successfully authenticated!",
+  "NotLinked": "You are not currently linked. Make sure to authenticate at {0} to receive awesome perks!",
+  "CheckError": "An internal error occurred while checking your status. Please contact an admin."
+}

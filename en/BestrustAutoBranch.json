@@ -1,0 +1,5 @@
+{
+  "Notification": "Automatic electric branch can be toggled with <color=#FFD479>/autobranch</color>",
+  "Enabled": "Automatic electrical branch is now <color=#FFD479>enabled!</color>",
+  "Disabled": "Automatic electrical branch is now <color=#FFD479>disabled!</color>"
+}
